@@ -1,0 +1,104 @@
+/*.header1{
+  background-color: silver;
+  width: 89%;
+  height: 82px;
+  border-radius: 20px;
+  margin: 7px;
+  margin-left: 150px; 
+}
+.img-control1 img{
+  width: 150px;
+  height: 100px;
+  margin-left: -150px;
+  margin-top: -70px;
+}
+.heading2{
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  color: blue;
+  padding-top: 10px;
+
+}*/
+.image1 img{
+   height:449px;
+  width: 1405px;
+
+}
+.lg-prd1{
+
+    float: left;
+    width: 700px;
+    height: 600px;
+    margin-left:05px;
+
+  }
+  .Ref1{
+     font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+  }
+.Oven1{
+  font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -625px;
+    margin-left: 750px;
+
+}
+.AC1{
+   font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 150px;
+    float: left;
+
+ }
+ .KT1{
+  font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -550px;
+    margin-left: 850px;
+
+}
+
+.Machine1{
+  font-size: 40px;
+ text-align: center;
+ font-weight: bolder;
+ margin-left: 60px;
+ /*margin-top: -60px;*/
+
+}
+.TO1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: -605px;
+  margin-left: 830px;
+}
+.JC1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -100px;
+  /*margin-top: 60px;*/
+}
+.VC1{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+   margin-top: -550px;
+  margin-left: 800px;
+}
+
+.header0{
+  background-color:#cccccc;
+  width: 100%;
+  height: 450px;
+  /*border-radius: 20px;*/
+  /*margin-top: 5px;*/
+  /*margin: 5px;*/
+  /*margin-left: 85px;*/
+}

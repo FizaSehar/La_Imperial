@@ -1,0 +1,113 @@
+/*.header2{
+  background-color: silver;
+  width: 100%;
+  height: 82px;
+  border-radius: 20px;
+  margin-top: 5px;
+  margin: 5px;
+  margin-left: 85px;
+}
+.heading3{
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  color: #003399;
+  padding-top: 10px;
+}
+.img-control2 img{
+  width: 180px;
+  height: 82px;
+  border-radius: 150px;
+  margin-top: -90px;
+  margin-left: -80px; 
+
+}*/
+.image2 img{
+   height:449px;
+  width: 1405px;
+  /*border:1px solid silver;*/
+  /*border-radius: 10px;*/
+
+/*background-color: silver;*/
+
+}
+.header0{
+  background-color:#cccccc;
+  width: 100%;
+  height: 400px;
+  /*border-radius: 20px;*/
+  /*margin-top: 5px;*/
+  /*margin: 5px;*/
+  /*margin-left: 85px;*/
+}
+
+.lg-prd2{
+
+    float: left;
+    width: 630px;
+    height: 600px;
+    margin-left:40px;
+
+  }
+  .Ref2{
+     font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: -130px;
+  }
+.Oven2{
+  font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -108px;
+    margin-left: -150px;
+
+}
+.AC2{
+  font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    margin-left: -650px;
+    float: left;
+ }
+ .KT2{
+  font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -10px;
+    margin-left: -150px;
+}
+.Machine2{
+  font-size: 45px;
+ text-align: center;
+ font-weight: bolder;
+ margin-left: -750px;
+ margin-top: -60px;
+ float: left;
+
+}
+.TO2{
+  font-size: 45px;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: -55px;
+  /*margin-left: 150px;*/
+  float: left;
+}
+.JC2{
+  font-size: 45px;
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -700px;
+  /*margin-top: -60px;*/
+  float: left;
+}
+.VC2{
+  font-size: 45px;
+  text-align: center;
+  font-weight: bolder;
+  /*margin-top: -578px;*/
+  margin-left: -140px;
+  float: left;
+}
+
